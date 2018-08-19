@@ -10,7 +10,7 @@
 Being that the case:
 - I would only be focused on the current number of ocurrences, not the historic one.
 - So, it would be no problem if a file is processed two times for it to overwrite  the db entry for it's filepath.
-- However it was assumed legibility of the data was going to be indeed important, and present values for the word ocurrences would be the only information I would want present on screen.
+- I assumed legibility of the data was going to be important, and present values for the word ocurrences would be the only information I would want present on screen.
 
 - ### "Besides, the script should print the last 10 searches perfomed per file"
 - Is it the 10 last search _results_? Okay, scratch the last assumption. We are going to make a verbose program that informs the user about _each_ past search.
