@@ -30,7 +30,8 @@ _"Alright, I've been thinking.
     "words":[
         "elephant","monkey"
     ]
-}```
+}
+```
 # _should be_
 ```js
 elephant (1 ocurrencias)
