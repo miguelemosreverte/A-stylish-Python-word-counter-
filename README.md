@@ -14,3 +14,7 @@ Being that the case:
 
 ### "Besides, the script should print the last 10 searches perfomed per file"
 - Is it the 10 last search _results_? Okay, scratched away the last assumption. This is why I made a program that informs the user about _each_ past search.
+
+<br/> 
+
+![](https://i.imgur.com/LMRIWbA.png)
