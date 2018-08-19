@@ -73,6 +73,7 @@ if __name__ == "__main__":
         for filename_index, filename in enumerate(filenames):
             query_result = db.search(query.ocurrence.filename == filename)
             print
+            console.message("\t" + filename, console.warning)
 
 
             # for example if you need to get data grouped by each third element you can use the following code
