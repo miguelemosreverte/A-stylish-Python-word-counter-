@@ -30,8 +30,11 @@ _"Alright, I've been thinking.
     "words":[
         "banana","apple"
     ]
-}```
+}
+```
+
 # _should be_
+
 ```js
 banana (1 ocurrencias)
 apple  (5 ocurrencias)
