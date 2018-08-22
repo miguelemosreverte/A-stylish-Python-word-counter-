@@ -18,3 +18,7 @@ Being that the case:
 <br/> 
 
 ![](https://i.imgur.com/LMRIWbA.png)
+
+# oh and about Python, check this out!
+##### No conditional are needed when you model your solution exhaustively! This is what identity functions are good for!
+![](https://i.imgur.com/SnV0Bly.png)
